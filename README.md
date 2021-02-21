@@ -1,5 +1,5 @@
 # homework 3
-Homework 3 of ECE231. Due 2/27/2021 at midnight.
+Homework 3 of ECE231. Due 3/6/2021 at midnight.
 
 ## Context
 For this assignment, you are going to do a classic problem. Create a class for complex numbers. You are given the files `complex.hpp` which declares some methods and operator overloads for the `Complex` class. You are also given `main.cpp`, which will test the `Complex` class. You'll have to create `A cpp file that will contain your contructors, methods, and operator overloading`. As well as add missing declarations in `complex.hpp`.
